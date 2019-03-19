@@ -22,3 +22,4 @@ It's my list of articles and tutorials about JS, its basics and best-practice us
 * [Beginners guide to Custom React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
 #### FAQ
 * [Front-end JavaScript Interviews in 2018–19](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514)
+* [JavaScript Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/questions/javascript-questions/)
