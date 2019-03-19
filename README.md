@@ -8,6 +8,7 @@ It's my list of articles and tutorials about JS, its basics and best-practice us
 * [PWA (offline)](#pwa)
 * [Optimizations](#optimizations)
 * [React](#react)
+* [FAQ](#faq)
 
 ## List of articles
 
@@ -19,3 +20,5 @@ It's my list of articles and tutorials about JS, its basics and best-practice us
 #### Optimizations
 #### React
 * [Beginners guide to Custom React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
+#### FAQ
+* [Front-end JavaScript Interviews in 2018–19](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514)
