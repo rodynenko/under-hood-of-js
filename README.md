@@ -14,6 +14,7 @@ It's my list of articles and tutorials about JS, its basics and best-practice us
 
 #### JS basics
 * [JavaScript "loose" comparison step by step](https://felix-kling.de/js-loose-comparison/)
+* [Анонимные функции в JavaScript](https://medium.com/devschacht/anonymous-functions-in-javascript-ff6b9ba85de0)
 #### PWA
 * [Build an offline-first, data-driven PWA](https://codelabs.developers.google.com/codelabs/workbox-indexeddb/index.html)
 * [Addy Osmani - Progressive Web Apps with React.js](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
